@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![hero of the page](./screenshot.jpg)
+![hero of the page](./screenshot.png)
 
 ### Links
 
