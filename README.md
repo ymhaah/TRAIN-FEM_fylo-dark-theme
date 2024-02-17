@@ -1,42 +1,18 @@
 # Frontend Mentor - Fylo dark theme landing page solution
+> Start at: Jul 4, 2022
 
+### Project Description
 This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Continued development](#continued-development)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
-My own attempt to solve this challenge
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+Your Secure Hub for Streamlined File Management! Fylo revolutionizes the way you handle your files by providing a secure central repository accessible from anywhere. With Fylo, effortlessly store and organize all your crucial documents in one protected space. Seamlessly access and manage your files on the go, fostering collaboration with friends, family, and colleagues. Experience the convenience of unified file storage and elevate your productivity with Fylo's user-friendly and secure platform.
 
 ### Screenshot
-
-![hero of the page](./screenshot.png)
+![hero of the page](https://github.com/ymhaah/TRAIN-FEM_fylo-dark-theme/assets/77534098/71bd7e47-72cd-49df-bfec-cc911e954c34)
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-rtah6eJxGO)
-- [Live Site URL](https://ymhaah.github.io/fylo-dark-theme/)
-
-## My process
-
-The design is generally easy. There were a few annoying things in the design, but in general it was easy
+- [Live Site URL](https://ymhaah.github.io/TRAIN-FEM_fylo-dark-theme/)
+- [frontEndMentor Solution URL](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-rtah6eJxGO)
 
 
 ### Built with
@@ -61,17 +37,18 @@ Check out my latest previous articles:
 -   [30-Day React Learning Journey!](https://dev.to/ymhaah/series/20473)
 
 ## Author
-
 -   professional links:
-    -   [Twitter](https://twitter.com/hafanwi)
-    -   [LinkedIn](https://www.linkedin.com/in/youssef-hafnawy/)
-    -   [GitHub](https://github.com/ymhaah)
+    - [Twitter / X](https://twitter.com/hafanwy)
+    - [LinkedIn](https://www.linkedin.com/in/youssef-hafnawy/)
+    - [Newsletter](https://hefnawystudio.substack.com/?utm_source=navbar&utm_medium=web&r=31jf6o)
 -   Hire me:
-    -   [UpWork](https://www.upwork.com/services/product/development-it-a-custom-and-responsive-websites-in-wordpress-1577236892828233728?ref=project_share)
-    -   [Freelancer](https://freelancer.com/u/ymhaah)
+    -   [UpWork](https://www.upwork.com/freelancers/~01acd8e5370e5646aa)
 -   Blog:
-    -   [HashNode](https://hafnawi.hashnode.dev/)
-    -   [Dev.to](https://dev.to/ymhaah)
     -   [Medium](https://medium.com/@ymhaah250)
+    -   [Dev.to](https://dev.to/ymhaah)
+
+### Free Services
+- [Free Website performance Optimization](https://tally.so/r/nPzKaB)   
+- [Free Website Accessibility Optimization](https://tally.so/r/3lr2bp)   
 
 
