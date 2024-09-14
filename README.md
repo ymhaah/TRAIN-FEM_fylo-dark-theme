@@ -1,9 +1,10 @@
 # Frontend Mentor - Fylo dark theme landing page solution
 > Start at: Jul 4, 2022
 
-### Project Description
-This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd).
+## Project Description
+This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). FrontendMentor is a platform where developers can improve their front-end skills by building real projects and receiving feedback from the community.
 
+### the project
 Your Secure Hub for Streamlined File Management! Fylo revolutionizes the way you handle your files by providing a secure central repository accessible from anywhere. With Fylo, effortlessly store and organize all your crucial documents in one protected space. Seamlessly access and manage your files on the go, fostering collaboration with friends, family, and colleagues. Experience the convenience of unified file storage and elevate your productivity with Fylo's user-friendly and secure platform.
 
 ### Screenshot
